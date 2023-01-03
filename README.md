@@ -1,7 +1,6 @@
 # Amazon-Food-reviews-sentiment-Analysis
-Here Amazon food reviews data is analysed using  used to classify the sentiment  of the review given by the Amazon user.
+Here Amazon food reviews data is analysed using Bag of Words, TF-IDF, Word2Vec, AverageWrod2Vec along with different Machine learning algorithms  used to classify the sentiment  of the review given by the Amazon user. Moreover the model is deployed using below steps:
 
-Steps:
 1. Build a model on your local box (Amazon Fine Food reviews) and store the model and
 other key model related variables in .pkl files
 2. Launch a micro instance on AWS.

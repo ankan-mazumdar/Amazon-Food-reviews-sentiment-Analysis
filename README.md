@@ -1,5 +1,5 @@
 # Amazon-Food-reviews-sentiment-Analysis
-About Amazon Fine Food Reviews is a classic Sentiment Analysis problem used to classify the polarity of the review given by the Amazon user.
+Here Amazon food reviews data is analysed using  used to classify the sentiment  of the review given by the Amazon user.
 
 Steps:
 1. Build a model on your local box (Amazon Fine Food reviews) and store the model and

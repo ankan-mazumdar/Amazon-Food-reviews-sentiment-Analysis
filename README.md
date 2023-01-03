@@ -45,3 +45,8 @@ Then add the specific security group to network interface
 
 ![image](https://user-images.githubusercontent.com/69012134/210357484-01e99b90-550b-4040-be13-eaf420ecfc52.png)
 
+![image](https://user-images.githubusercontent.com/69012134/210358811-f2246305-9ac8-4c55-a8a7-ddad0b594c2f.png)
+
+![image](https://user-images.githubusercontent.com/69012134/210358872-a122e4f6-22c0-4eb6-9cb7-8f8f7952a572.png)
+
+
